@@ -53,19 +53,19 @@ Fields:
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](Screenshots/menu.png)
 
 ### View Expenses
 
-![View Expenses](screenshots/view-expenses.png)
+![View Expenses](Screenshots/view-expenses.png)
 
 ### Add Expense
 
-![Add Expense](screenshots/add-expenses.png)
+![Add Expense](Screenshots/add-expenses.png)
 
 ### Total Spendings
 
-![Total Spendings](screenshots/total-spendings.png)
+![Total Spendings](Screenshots/total-spendings.png)
 
 
 ## Learning Outcomes
