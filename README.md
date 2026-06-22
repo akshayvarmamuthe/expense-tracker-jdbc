@@ -18,6 +18,8 @@ A console-based Expense Tracker application built using Java, JDBC, and PostgreS
 * Java
 * JDBC
 * PostgreSQL
+* Git
+* GitHub
 * IntelliJ IDEA
 
 ## Database Schema
